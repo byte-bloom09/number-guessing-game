@@ -1,0 +1,8 @@
+# 🎯 Number Guessing Game
+
+A simple Python game where the user tries to guess a randomly generated number.
+
+## 🚀 How to Run
+
+```bash
+python guess_a_number.py
